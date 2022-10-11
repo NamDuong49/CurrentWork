@@ -1,0 +1,22 @@
+{
+  "currentWork": [
+    {
+      "id": 1,
+      "position": "Nhân viên",
+      "time": "28/10/2010 - 15/02/2018",
+      "department": "Khối kinh doanh MB",
+      "signDay": "28/10/2010",
+      "boss": "Đào Văn Hùng",
+      "bossPosition": "Trưởng bộ phận"
+    },
+    {
+      "id": 2,
+      "position": "Nhân viên kinh doanh",
+      "time": "16/02/2018 - Tới nay",
+      "department": "Khối kinh doanh MB",
+      "signDay": "",
+      "boss": "",
+      "bossPosition": ""
+    }
+  ]
+}
